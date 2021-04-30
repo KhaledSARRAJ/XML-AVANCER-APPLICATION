@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jaxb:bindings xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" if-exists="true" version="2.1">
+      
+    <!--
+
+Ce fichier a été généré par l'implémentation de référence JavaTM Architecture for XML Binding (JAXB), v2.3.0 
+Voir <a href="https://javaee.github.io/jaxb-v2/">https://javaee.github.io/jaxb-v2/</a> 
+Toute modification apportée à ce fichier sera perdue lors de la recompilation du schéma source. 
+Généré le : 2021.04.30 à 02:24:53 PM CEST 
+
+  -->
+      
+    <jaxb:bindings if-exists="true" scd="x-schema::">
+            
+        <jaxb:schemaBindings map="false">
+                  
+            <jaxb:package name="generated"/>
+                
+        </jaxb:schemaBindings>
+            
+        <jaxb:bindings if-exists="true" scd="~Items">
+                  
+            <jaxb:class ref="generated.Items"/>
+                
+        </jaxb:bindings>
+            
+        <jaxb:bindings if-exists="true" scd="~PurchaseOrderType">
+                  
+            <jaxb:class ref="generated.PurchaseOrderType"/>
+                
+        </jaxb:bindings>
+            
+        <jaxb:bindings if-exists="true" scd="~USAddress">
+                  
+            <jaxb:class ref="generated.USAddress"/>
+                
+        </jaxb:bindings>
+          
+    </jaxb:bindings>
+    
+</jaxb:bindings>

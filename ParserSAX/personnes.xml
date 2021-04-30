@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<personnes>
+ <personne id = "393">
+ <nom>Jean</nom>
+ <prenom>Henry</prenom>
+ <musique>reggea</musique>
+ <note>18</note>
+ </personne>
+
+ <personne id = "493">
+ <nom>Léna</nom>
+ <prenom>Mbengue</prenom>
+ <musique>soul</musique>
+ <note>15</note>
+ </personne>
+
+ <personne id = "593">
+ <nom>Johnson</nom>
+ <prenom>Zinker</prenom>
+ <musique>jazz</musique>
+ <note>14</note>
+ </personne>
+</personnes>
